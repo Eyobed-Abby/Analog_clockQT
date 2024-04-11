@@ -1,0 +1,96 @@
+# ninja log v5
+527	824	7345090950946536	.rcc/qmlcache/appAnalog_Minute_qml.cpp	2d15b7508745afa8
+21	120	7345082923674679	Analog/MinuteNeedle.qml	23a4d009b1a678df
+428	559	7345090948179629	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appAnalog_raw_qml_0.cpp	526c7e3201703c43
+16	178	7345092685049797	.qt_plugins/Qt6_QmlPlugins_Imports_appAnalog.cmake	6c4c757bb392160b
+21	5349	7341887981919469	Analog/SecondNeedle.qml	a91f6021deaf9e20
+127	401	7345090946710227	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appAnalog_autogen/mocs_compilation.cpp	23901bdd0e5da87c
+16	178	7345092685049797	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appAnalog.cmake	6c4c757bb392160b
+35	195	7342233795463776	Analog/Main.qml	2030ae6bd7df35bd
+207	1783	7345092698352599	build.ninja	4dc8c71dc3e01cda
+8026	8248	7341888010842101	CMakeFiles/appAnalog.dir/appAnalog_autogen/mocs_compilation.cpp.obj	b6fc5232d42e39c
+839	4286	7345090985584385	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Second_qml.cpp.obj	2f5e13c60c3a28c0
+421	526	7345090945460522	meta_types/appAnalog_json_file_list.txt	2756f7538e527cf3
+35	195	7342233795463776	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Analog/Main.qml	2030ae6bd7df35bd
+15	114	7345082923674679	Analog/HourNeedle.qml	4af0911b2657691f
+15	114	7345082923674679	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Analog/HourNeedle.qml	4af0911b2657691f
+626	1374	7345088675582994	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Clock_qml.cpp	3f46bcef24d31863
+21	120	7345082923674679	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Analog/MinuteNeedle.qml	23a4d009b1a678df
+437	602	7345088668102426	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_qmlcache_loader.cpp	de588a0e658d63d9
+421	526	7345090945460522	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appAnalog_json_file_list.txt	2756f7538e527cf3
+38	208	7345088664301971	Analog/Clock.qml	db1dbfc55dc8ae1a
+38	208	7345088664301971	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Analog/Clock.qml	db1dbfc55dc8ae1a
+21	5349	7341887981919469	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Analog/SecondNeedle.qml	a91f6021deaf9e20
+127	401	7345090946710227	appAnalog_autogen/timestamp	23901bdd0e5da87c
+127	401	7345090946710227	appAnalog_autogen/mocs_compilation.cpp	23901bdd0e5da87c
+6246	6430	7341887992767893	meta_types/qt6appanalog_debug_metatypes.json.gen	e4c58b01eecd8231
+127	401	7345090946710227	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appAnalog_autogen/timestamp	23901bdd0e5da87c
+652	1151	7345088673475325	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Hour_qml.cpp	7a9b27c83ed300
+6246	6430	7341887992767893	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6appanalog_debug_metatypes.json	e4c58b01eecd8231
+432	597	7345088667946219	.rcc/qrc_qmake_Analog.cpp	386f9bbcbbc4c417
+432	597	7345088667946219	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_qmake_Analog.cpp	386f9bbcbbc4c417
+428	559	7345090948179629	.rcc/qrc_appAnalog_raw_qml_0.cpp	526c7e3201703c43
+421	526	7345090945460522	meta_types/appAnalog_json_file_list.txt.timestamp	2756f7538e527cf3
+421	526	7345090945460522	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appAnalog_json_file_list.txt.timestamp	2756f7538e527cf3
+437	602	7345088668102426	.rcc/qmlcache/appAnalog_qmlcache_loader.cpp	de588a0e658d63d9
+6246	6430	7341887992767893	meta_types/qt6appanalog_debug_metatypes.json	e4c58b01eecd8231
+6246	6430	7341887992767893	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6appanalog_debug_metatypes.json.gen	e4c58b01eecd8231
+6431	6827	7341887995370849	appanalog_qmltyperegistrations.cpp	539f632555d6bc97
+1172	7742	7341929067120094	CMakeFiles/appAnalog.dir/main.cpp.obj	7fac54cfe3231c9a
+19	118	7345090943988633	Analog/Second.qml	607e2c71179878a3
+2671	6958	7345088731667532	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Main_qml.cpp.obj	e7a150bde4d59f80
+6431	6827	7341887995370849	Analog/appAnalog.qmltypes	539f632555d6bc97
+6431	6827	7341887995370849	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appanalog_qmltyperegistrations.cpp	539f632555d6bc97
+17	5518	7341899175750519	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_SecondNeedle_qml.cpp.obj	c07e253acffa2770
+6431	6827	7341887995370849	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Analog/appAnalog.qmltypes	539f632555d6bc97
+606	1174	7345088673758597	.rcc/qmlcache/appAnalog_Main_qml.cpp	e924dbdd60b0b00d
+464	699	7345082929438523	.rcc/qmlcache/appAnalog_HourNeedle_qml.cpp	7d42c961e3f7ac8a
+606	1174	7345088673758597	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Main_qml.cpp	e924dbdd60b0b00d
+464	699	7345082929438523	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_HourNeedle_qml.cpp	7d42c961e3f7ac8a
+458	698	7345082929282305	.rcc/qmlcache/appAnalog_MinuteNeedle_qml.cpp	d0861132838c2655
+831	1118	7345090953941613	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appAnalog_raw_qml_0.cpp.obj	514d7698805b90e5
+458	698	7345082929282305	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_MinuteNeedle_qml.cpp	d0861132838c2655
+6834	7510	7341888003220113	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_SecondNeedle_qml.cpp	80bc50fb4753e3ed
+6834	7510	7341888003220113	.rcc/qmlcache/appAnalog_SecondNeedle_qml.cpp	80bc50fb4753e3ed
+626	1374	7345088675582994	.rcc/qmlcache/appAnalog_Clock_qml.cpp	3f46bcef24d31863
+1375	2670	7345088688787654	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_qmake_Analog.cpp.obj	fafc1bd186b08b09
+1497	10153	7345088763698942	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_qmlcache_loader.cpp.obj	231efde96ff368b5
+4434	5212	7345090994855488	appAnalog.exe	6d72c64f29394146
+699	3563	7345082958211792	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_MinuteNeedle_qml.cpp.obj	c3a94c65b3637580
+704	3555	7345082958055600	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_HourNeedle_qml.cpp.obj	ee9841e4a7eb0802
+101	5875	7341899006546105	CMakeFiles/appAnalog.dir/appanalog_qmltyperegistrations.cpp.obj	87489fb89bf042c
+1404	7097	7345088733027146	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Clock_qml.cpp.obj	6bf3cceb03f7579f
+19	118	7345090943988633	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Analog/Second.qml	607e2c71179878a3
+835	4433	7345090987095313	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Minute_qml.cpp.obj	e44db7d447d55538
+21	196	7345088664087138	Analog/Hour.qml	370595e66fd45ef
+21	196	7345088664087138	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Analog/Hour.qml	370595e66fd45ef
+25	127	7345090944100428	Analog/Minute.qml	63144473f0e65f44
+25	127	7345090944100428	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Analog/Minute.qml	63144473f0e65f44
+527	824	7345090950946536	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Minute_qml.cpp	2d15b7508745afa8
+652	1151	7345088673475325	.rcc/qmlcache/appAnalog_Hour_qml.cpp	7a9b27c83ed300
+533	830	7345090950946536	.rcc/qmlcache/appAnalog_Second_qml.cpp	6b1aacfa803730e3
+533	830	7345090950946536	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Second_qml.cpp	6b1aacfa803730e3
+1454	6325	7345088724901509	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Hour_qml.cpp.obj	ad2ba240656e95a8
+179	1649	7345092698352599	build.ninja	4dc8c71dc3e01cda
+16	117	7345092701271715	Analog/Main.qml	2030ae6bd7df35bd
+16	117	7345092701271715	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Analog/Main.qml	2030ae6bd7df35bd
+21	120	7345092701271715	Analog/Minute.qml	63144473f0e65f44
+21	120	7345092701271715	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Analog/Minute.qml	63144473f0e65f44
+121	330	7345092703404642	appAnalog_autogen/timestamp	23901bdd0e5da87c
+121	330	7345092703404642	appAnalog_autogen/mocs_compilation.cpp	23901bdd0e5da87c
+121	330	7345092703404642	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appAnalog_autogen/timestamp	23901bdd0e5da87c
+121	330	7345092703404642	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appAnalog_autogen/mocs_compilation.cpp	23901bdd0e5da87c
+343	442	7345092702623580	meta_types/appAnalog_json_file_list.txt	2756f7538e527cf3
+343	442	7345092702623580	meta_types/appAnalog_json_file_list.txt.timestamp	2756f7538e527cf3
+343	442	7345092702623580	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appAnalog_json_file_list.txt	2756f7538e527cf3
+343	442	7345092702623580	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/appAnalog_json_file_list.txt.timestamp	2756f7538e527cf3
+348	465	7345092704703910	.rcc/qrc_appAnalog_raw_qml_0.cpp	526c7e3201703c43
+348	465	7345092704703910	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appAnalog_raw_qml_0.cpp	526c7e3201703c43
+449	718	7345092707149051	.rcc/qmlcache/appAnalog_Minute_qml.cpp	2d15b7508745afa8
+449	718	7345092707149051	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Minute_qml.cpp	2d15b7508745afa8
+443	719	7345092707149051	.rcc/qmlcache/appAnalog_Main_qml.cpp	e924dbdd60b0b00d
+443	719	7345092707149051	C:/Users/Eyobed/Documents/Qt projects/Analog/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Main_qml.cpp	e924dbdd60b0b00d
+723	915	7345092709282617	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_appAnalog_raw_qml_0.cpp.obj	514d7698805b90e5
+728	3381	7345092733949148	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Main_qml.cpp.obj	e7a150bde4d59f80
+719	3553	7345092735646674	CMakeFiles/appAnalog.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAnalog_Minute_qml.cpp.obj	e44db7d447d55538
+3553	4249	7345092742517293	appAnalog.exe	6d72c64f29394146

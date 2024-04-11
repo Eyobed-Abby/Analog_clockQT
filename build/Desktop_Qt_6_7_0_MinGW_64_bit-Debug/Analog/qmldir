@@ -1,0 +1,9 @@
+module Analog
+typeinfo appAnalog.qmltypes
+prefer :/Analog/
+Main 1.0 Main.qml
+Clock 1.0 Clock.qml
+Hour 1.0 Hour.qml
+Minute 1.0 Minute.qml
+Second 1.0 Second.qml
+
